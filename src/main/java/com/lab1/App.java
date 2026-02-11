@@ -15,6 +15,7 @@ public final class App {
      */
     public static void main(final String[] args) {
         System.out.println("Hello World!");
-        System.out.println('Lab1 is working!');
+        int a = 5;
+        System.out.println("Value of a: " + a);
     }
 }
